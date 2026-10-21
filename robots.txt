@@ -1,0 +1,7 @@
+# robots.txt de Verdalia
+User-agent: *
+Disallow: /carrito/
+Disallow: /mi-cuenta/
+Disallow: /*?orden=
+
+Sitemap: https://serberar.github.io/verdalia/sitemap.xml
